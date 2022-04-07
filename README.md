@@ -23,6 +23,4 @@
 
 ### Контакты:
 ### 📧 Почта: Sergynya174@yandex.ru
-### 🌐 Telegram: @
-
-![](https://komarev.com/ghpvc/?username=qtrixnet&style=flat-square&color=blueviolet)
+### 🌐 Telegram: @SergoMatrosov174
