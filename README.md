@@ -22,17 +22,6 @@
 
 ![Metrics](https://metrics.lecoq.io/qtrixnet?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FAlmaty)
 
-### Codewars:
-[![codewars](https://www.codewars.com/users/Qtrixnet/badges/small)](https://www.codewars.com/users/Qtrixnet)
-
-<div align="center">
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=qtrixnet&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qtrixnet&&hide_border=trueshow_icons=true&theme=react"/>
-</div>
-
-<div align="center">
-  <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=qtrixnet&hide_border=true&theme=react-dark"/>
-</div>
 
 ### Контакты:
 ### 📧 Почта: Sergynya174@yandex.ru
