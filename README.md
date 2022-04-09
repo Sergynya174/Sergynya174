@@ -6,17 +6,17 @@
 
 ### Мои приоритеты:
 + 🧼 Стараюсь писать чистый код
-+ 🚀 Осваиваю новые технологии
++ 🎓 Осваиваю новые технологии
 + ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность
-+ Работать над интересными проектами
-+ Работать в дружной команде опытных разработчиков
++ ✍ Работать над интересными проектами
++ 🚀 Работать в дружной команде опытных разработчиков
 
 ### Используемые языки и технологии:
 ![JavaScript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
 ![React.js](https://img.shields.io/badge/-ReactJS-0d1117?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=Redux)
-[![Node.js](https://user-images.githubusercontent.com/86494748/158791550-15622b7d-b568-4c49-8bdd-b6732cb2869b.png)]//(https://nodejs.org/en/)
-[![Git](https://user-images.githubusercontent.com/86494748/128634186-d1b69fc3-322b-4344-89d0-615670eaaa93.png)]//(https://git-scm.com/)
+![Node.js]()
+![Git]()
 ![API](https://img.shields.io/badge/-REST&#032;API-0d1117?style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
 ![HTML5](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
