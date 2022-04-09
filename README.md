@@ -15,15 +15,15 @@
 ![JavaScript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
 ![React.js](https://img.shields.io/badge/-ReactJS-0d1117?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=Redux)
-![Node.js]()
-![Git]()
+![Node.js](https://img.shields.io/badge/-NodeJS-0d1117?style=for-the-badge&logo=Node)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=Git)
 ![API](https://img.shields.io/badge/-REST&#032;API-0d1117?style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
 ![HTML5](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 
 ### Графические редакторы:
-[![Figma](https://user-images.githubusercontent.com/86494748/148681763-cc9b76df-7a91-4908-84bb-7da19b860c74.png)](https://www.figma.com/)
+![Figma](https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=Figma)
 
 ### Контакты:
 ### 📧 Почта: Sergynya174@yandex.ru
