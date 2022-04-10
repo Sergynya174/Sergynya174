@@ -29,6 +29,8 @@
 ### Графические редакторы:
 ![Figma](https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=Figma)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sergynya174&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ### Контакты:
 ### 📧 Почта: Sergynya174@yandex.ru
 ### 🌐 Telegram: @SergoMatrosov174
