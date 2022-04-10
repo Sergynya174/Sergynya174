@@ -29,6 +29,7 @@
 ### Графические редакторы:
 ![Figma](https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=Figma)
 
+### Мой статус:
 <div align='center'>
   <img width='50%' src='http://github-readme-streak-stats.herokuapp.com?user=Sergynya174&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D'>
 </div>
