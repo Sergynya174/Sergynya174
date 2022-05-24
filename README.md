@@ -34,9 +34,9 @@
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=Sergynya174&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
-<div align="center">
+/*<div align="center">
   <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=Sergynya174&hide_border=true&theme=react-dark"/>
-</div>
+</div>*/
 
 ### Контакты:
 ### 📧 Почта: Sergynya174@yandex.ru
