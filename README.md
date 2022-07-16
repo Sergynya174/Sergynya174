@@ -38,4 +38,4 @@
 
 ### Контакты:
 ### 📧 Почта: Sergynya174@yandex.ru
-### 🌐 Telegram: @SergoMatrosov174
+### 🌐 Telegram: [@SergoMatrosov174](https://t.me/SergoMatrosov174)
