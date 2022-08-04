@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1>Привет, меня зовут 
+<h1 align="center">Привет, меня зовут 
     <a href="https://vk.com/bear_74" target="_blank">Сергей</a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
