@@ -40,10 +40,12 @@
 
 ### Мой статус:
 <div >
-  <img width="49%" src="https://www.codewars.com/users/Sergynya174/badges/large">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Sergynya174=daniilshat&theme=gruvbox">
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=Sergynya174&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sergynya174&theme=gruvbox">
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergynya174&theme=gruvbox">
+</div>
+<div>
+  <img width="35%" src="https://www.codewars.com/users/Sergynya174/badges/large">
 </div>
 
 ### Контакты:
