@@ -7,7 +7,8 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=5000&color=228B22&width=700&height=50&lines=%D0%AF+Junior+front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
+
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=24&duration=5000&color=228B22&width=700&height=50&lines=%D0%AF+Junior+front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA">
 
 ### Статистика профиля: [Посмотреть](https://metrics.lecoq.io/insights/Sergynya174)
 
@@ -38,8 +39,11 @@
 ![Figma](https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=Figma)
 
 ### Мой статус:
-<div align="center">
+<div >
+  <img width="49%" src="https://www.codewars.com/users/Sergynya174/badges/large">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Sergynya174=daniilshat&theme=gruvbox">
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=Sergynya174&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sergynya174&theme=gruvbox">
 </div>
 
 ### Контакты:
