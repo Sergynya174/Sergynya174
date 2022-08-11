@@ -34,6 +34,7 @@
 ![express](https://img.shields.io/badge/express-0d1117?style=for-the-badge&logo=express)
 ![HTML5](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-0d1117?style=for-the-badge&logo=scss)
 
 ### Графические редакторы:
 ![Figma](https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=Figma)
