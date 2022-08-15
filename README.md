@@ -22,6 +22,7 @@
 + 🕕 Работать в дружной команде опытных разработчиков
 
 ### Используемые языки и технологии:
+<img src="https://camo.githubusercontent.com/1caeaac6c7409233221fd3ce0b49544d2b8487325668774145bf504455639e4b/68747470733a2f2f646576737469636b6572732e636f6d2f6173736574732f696d672f70726f2f6b6837782e706e67" alt="Node.js" width="30" height="30" data-canonical-src="https://devstickers.com/assets/img/pro/kh7x.png" style="max-width: 100%;">
 ![JavaScript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
 ![React.js](https://img.shields.io/badge/-React.js-0d1117?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=Redux)
