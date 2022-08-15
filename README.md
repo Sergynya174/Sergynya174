@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30" style="max-width: 100%;">
   <img src="https://www.cloudanalogy.co.uk/wp-content/uploads/2019/06/react.png" alt="React" width="30" height="30" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="30" height="30" style="max-width: 100%;">
-  <img src="https://devstickers.com/assets/img/pro/kh7x.png" alt="Node.js" width="30" height="30" style="max-width: 100%;">
+  <img src="https://fuzeservers.ru/wp-content/uploads/4/e/5/4e58bdf65d1468bac4acf3bccb3567ed.png" alt="Node.js" width="30" height="30" style="max-width: 100%;">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" style="max-width: 100%;">
   <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" alt="Webpack" width="30" height="30" style="max-width: 100%;">
   <img src="https://fc01.deviantart.net/fs70/f/2010/168/e/1/Icon_MongoDB_by_xkneo.png" alt="MongoDB" width="30" height="30" style="max-width: 100%;">
