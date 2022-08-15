@@ -24,7 +24,7 @@
 ### Используемые языки и технологии:
 <div display='flex'>
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript" width="30" height="30" style="max-width: 100%;">
-  <img src="https://cryptologos.cc/logos/html-coin-html-logo.png" alt="HTML" width="30" height="30" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30" style="max-width:    100%;">
   <img src="https://icon-library.com/images/css-xxl_10573.png" alt="CSS" width="30" height="30" style="max-width: 100%;">
   <img src="https://www.cloudanalogy.co.uk/wp-content/uploads/2019/06/react.png" alt="React" width="30" height="30" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="30" height="30" style="max-width: 100%;">
