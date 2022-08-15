@@ -38,6 +38,7 @@
 
 ### Графические редакторы:
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" style="max-width: 100%;">
+<img src="https://free-png.ru/wp-content/uploads/2022/02/free-png.ru-774.png" alt="figma" width="30" height="30" style="max-width: 100%;">
 
 ### Мой статус:
 <div >
