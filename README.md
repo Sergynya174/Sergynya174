@@ -4,7 +4,7 @@
 
 <h1 align="center">Привет, меня зовут 
     <a href="https://vk.com/bear_74" target="_blank">Сергей</a> 
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" max-width="50" height="32"/>
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50" height="32"/>
 </h1>
 
 <img align="center" src="https://readme-typing-svg.herokuapp.com?size=24&duration=5000&color=228B22&width=700&height=50&lines=%D0%AF+Junior+front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA">
