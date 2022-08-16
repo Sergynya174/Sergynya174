@@ -50,7 +50,7 @@
 </div>
 <div>
   <img width="35%" src="https://www.codewars.com/users/Sergynya174/badges/large">
-  <img src="https://komarev.com/ghpvc/?Sergynya174=your-github-Sergynya174&style=flat-square&color=blue" alt="Sergynya174"/>
+  <img src="https://komarev.com/ghpvc/?Sergynya174=your-github-username&style=flat-square&color=blue" alt="Sergynya174"/>
 </div>
 
 ### Контакты:
