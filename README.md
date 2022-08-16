@@ -37,7 +37,7 @@
 </div>
 
 ### Графические редакторы:
-<div display='flex'>
+<div>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" style="max-width: 100%;">
   <img src="https://free-png.ru/wp-content/uploads/2022/02/free-png.ru-774.png" alt="figma" width="30" height="30" style="max-width: 100%;">
 </div>
@@ -48,10 +48,11 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sergynya174&theme=gruvbox">
   <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergynya174&theme=gruvbox">
 </div>
-<div display='flex'>
+<div>
   <img width="35%" src="https://www.codewars.com/users/Sergynya174/badges/large">
-  <img width="20%" src="https://komarev.com/ghpvc/?username=your-github-Sergynya174&style=flat-square&color=blue" alt="Sergynya174"/>
+  
 </div>
+<img width="15%" src="https://komarev.com/ghpvc/?username=your-github-Sergynya174&style=flat-square&color=blue" alt="Sergynya174"/>
 
 ### Контакты:
 ### 📧 Почта: Sergynya174@yandex.ru
