@@ -51,8 +51,8 @@
 <div>
   <img width="35%" src="https://www.codewars.com/users/Sergynya174/badges/large">
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-Sergynya174&style=flat-square&color=blue" alt="Sergynya174"/>
 
 ### Контакты:
 ### 📧 Почта: Sergynya174@yandex.ru
 ### 🌐 Telegram: [@SergoMatrosov174](https://t.me/SergoMatrosov174)
+<img src="https://komarev.com/ghpvc/?username=your-github-Sergynya174&style=flat-square&color=blue" alt="Sergynya174"/>
