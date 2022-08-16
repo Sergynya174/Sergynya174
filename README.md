@@ -48,9 +48,9 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sergynya174&theme=gruvbox">
   <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergynya174&theme=gruvbox">
 </div>
-<div>
+<div display='flex'>
   <img width="35%" src="https://www.codewars.com/users/Sergynya174/badges/large">
-  <img width="10%" src="https://komarev.com/ghpvc/?username=your-github-Sergynya174&style=flat-square&color=blue" alt="Sergynya174"/>
+  <img width="20%" src="https://komarev.com/ghpvc/?username=your-github-Sergynya174&style=flat-square&color=blue" alt="Sergynya174"/>
 </div>
 
 ### Контакты:
