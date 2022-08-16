@@ -56,5 +56,5 @@
 
 ### Контакты:
 #### 📧Почта: Sergynya174@yandex.ru
-#### https://azardetdom.ru/telegram-logo.pngTelegram: [@SergoMatrosov174](https://t.me/SergoMatrosov174)
+#### 🌐Telegram: [@SergoMatrosov174](https://t.me/SergoMatrosov174)
 <img src="https://komarev.com/ghpvc/?username=your-github-Sergynya174&style=flat-square&color=green" alt="Sergynya174"/>
