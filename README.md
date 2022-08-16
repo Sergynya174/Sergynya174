@@ -51,7 +51,7 @@
 
 ### Codewars:
 <div>
-  <img width="20%" src="https://www.codewars.com/users/Sergynya174/badges/large">
+  <img width="30%" src="https://www.codewars.com/users/Sergynya174/badges/large">
 </div>
 
 ### Контакты:
