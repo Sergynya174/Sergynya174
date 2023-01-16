@@ -42,7 +42,7 @@
 </div>
 
 ### Мой статус:
-<div display='flex' flex-direction ='column'>
+<div display='flex' flex-direction ='row'>
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=Sergynya174&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D">
   <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergynya174&theme=gruvbox">
 </div>
