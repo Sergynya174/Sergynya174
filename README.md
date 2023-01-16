@@ -22,29 +22,29 @@
 
 ### Используемые языки и технологии:
 <div display='flex'>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript" width="30" height="30" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30" style="max-width:    100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30" style="max-width: 100%;">
-  <img src="https://www.cloudanalogy.co.uk/wp-content/uploads/2019/06/react.png" alt="React" width="30" height="30" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="30" height="30" style="max-width: 100%;">
-  <img src="https://devstickers.com/assets/img/pro/kh7x.png" alt="Node.js" width="30" height="30" style="max-width: 100%;">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" style="max-width: 100%;">
-  <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" alt="Webpack" width="30" height="30" style="max-width: 100%;">
-  <img src="https://fc01.deviantart.net/fs70/f/2010/168/e/1/Icon_MongoDB_by_xkneo.png" alt="MongoDB" width="30" height="30" style="max-width: 100%;">
-  <img src="https://i2.wp.com/www.mementotech.in/assets/images/icons/express.png" alt="express.js" width="30" height="30" style="max-width: 100%;">
-  <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="Sass" width="30" height="30" style="max-width: 100%;">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript" width="30" height="30" style="max-width: 100%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30" style="max-width:    100%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30" style="max-width: 100%">
+  <img src="https://www.cloudanalogy.co.uk/wp-content/uploads/2019/06/react.png" alt="React" width="30" height="30" style="max-width: 100%">
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="30" height="30" style="max-width: 100%">
+  <img src="https://devstickers.com/assets/img/pro/kh7x.png" alt="Node.js" width="30" height="30" style="max-width: 100%">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" style="max-width: 100%">
+  <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" alt="Webpack" width="30" height="30" style="max-width: 100%">
+  <img src="https://fc01.deviantart.net/fs70/f/2010/168/e/1/Icon_MongoDB_by_xkneo.png" alt="MongoDB" width="30" height="30" style="max-width: 100%">
+  <img src="https://i2.wp.com/www.mementotech.in/assets/images/icons/express.png" alt="express.js" width="30" height="30" style="max-width: 100%">
+  <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="Sass" width="30" height="30" style="max-width: 100%">
 </div>
 
 ### Графические редакторы:
 <div>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" style="max-width: 100%;">
-  <img src="https://free-png.ru/wp-content/uploads/2022/02/free-png.ru-774.png" alt="figma" width="30" height="30" style="max-width: 100%;">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" style="max-width: 100%">
+  <img src="https://free-png.ru/wp-content/uploads/2022/02/free-png.ru-774.png" alt="figma" width="30" height="30" style="max-width: 100%">
 </div>
 
 ### Мой статус:
-<div display='flex' >
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=Sergynya174&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D">
-  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergynya174&theme=gruvbox">
+<div display='flex'>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Sergynya174&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergynya174&theme=gruvbox">
 </div>
 
 ### Codewars:
