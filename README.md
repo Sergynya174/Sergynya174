@@ -36,7 +36,7 @@
 ### Графические редакторы:
 <div>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" style="max-width: 100%">
-  <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1108x1108.svg?w=30&h=30&fit=max&auto=format" alt="Figma" width="30" height="30" style="max-width: 100%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="Figma" width="30" height="30" style="max-width: 100%">
 </div>
 
 ### Мой статус:
