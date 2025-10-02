@@ -39,8 +39,8 @@
 </div>
 
 ### Мой статус:
-<div style='display: flex; gap: 10px;'>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Sergynya174&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D">
+<div display='flex' style='display: flex; gap: 10px;'>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sergynya174&theme=react" style="margin-right: 20px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergynya174&theme=react">
 </div>
 
