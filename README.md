@@ -40,7 +40,7 @@
 
 ### Мой статус:
 <div display='flex'>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sergynya174&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sergynya174&theme=blue-green" alt="GitHub Streak" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergynya174&theme=react">
 </div>
 
