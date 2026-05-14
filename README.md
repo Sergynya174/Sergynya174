@@ -19,9 +19,9 @@
 + 🕕 Работать в дружной команде
 
 ### Используемые языки и технологии:
-<div display='flex'>
+<div display='flex' style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript" width="30" height="30" style="max-width: 100%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30" style="max-width:    100%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30" style="max-width: 100%">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30" style="max-width: 100%">
   <img src="https://www.cloudanalogy.co.uk/wp-content/uploads/2019/06/react.png" alt="React" width="30" height="30" style="max-width: 100%">
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="30" height="30" style="max-width: 100%">
@@ -29,8 +29,13 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" style="max-width: 100%">
   <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="Webpack" width="30" height="30" style="max-width: 100%">
   <img src="https://fc01.deviantart.net/fs70/f/2010/168/e/1/Icon_MongoDB_by_xkneo.png" alt="MongoDB" width="30" height="30" style="max-width: 100%">
-  <img src="https://i2.wp.com/www.mementotech.in/assets/images/icons/express.png" alt="express.js" width="30" height="30" style="max-width: 100%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express.js" width="30" height="30" style="max-width: 100%">
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" width="30" height="30" style="max-width: 100%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="AntDesign" width="30" height="30" style="max-width: 100%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" style="max-width: 100%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="30" height="30" style="max-width: 100%; background: white; border-radius: 4px;">
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" alt="Zustand" width="30" height="30" style="max-width: 100%" onerror="this.src='https://camo.githubusercontent.com/ab4c8c731a96a6ef259b6e5e6f3a132b1e9a6f2c6f0f6b7e6f0a9b6d6f8e0d0/68747470733a2f2f7261772e6769746875622e636f6d2f706d6e6472732f7a757374616e642f6d61696e2f6578616d706c65732f64656d6f2f7075626c69632f7a757374616e642e706e67';">
+  <img src="https://raw.githubusercontent.com/axios/axios/master/logo.svg" alt="Axios" width="30" height="30" style="max-width: 100%">
 </div>
 
 ### Графические редакторы:
