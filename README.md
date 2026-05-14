@@ -34,7 +34,7 @@
 </div>
 
 ### Графические редакторы:
-<div>
+<div display='flex'>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" style="max-width: 100%">
 </div>
 
