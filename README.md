@@ -35,7 +35,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" width="30" height="30" style="max-width: 100%">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="AntDesign" width="30" height="30" style="max-width: 100%">
   <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" alt="Zustand" width="30" height="30" style="max-width: 100%" onerror="this.src='https://camo.githubusercontent.com/ab4c8c731a96a6ef259b6e5e6f3a132b1e9a6f2c6f0f6b7e6f0a9b6d6f8e0d0/68747470733a2f2f7261772e6769746875622e636f6d2f706d6e6472732f7a757374616e642f6d61696e2f6578616d706c65732f64656d6f2f7075626c69632f7a757374616e642e706e67';">
-  <img src="https://img.icons8.com/color/480/axios.png" alt="Axios" width="30" height="30" style="max-width: 100%">
 </div>
 
 ### Графические редакторы:
